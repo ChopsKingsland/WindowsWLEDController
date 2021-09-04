@@ -1,0 +1,12 @@
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\bin\Debug\WLEDcontrol.exe.config
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\bin\Debug\WLEDcontrol.exe
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\bin\Debug\WLEDcontrol.pdb
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\bin\Debug\WLEDcontrol.xml
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.vbproj.AssemblyReference.cache
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.Resources.resources
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.vbproj.GenerateResource.cache
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.vbproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.exe
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.xml
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.pdb
+C:\Users\charl\Documents\VB\WLEDcontrol\WLEDcontrol\obj\Debug\WLEDcontrol.Form1.resources
